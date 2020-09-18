@@ -2,7 +2,7 @@
 
 This is a food/baking blog  made by Diana Zhang...
 
-site: ![https://www.dizzydizzykitchen.com/]
+site: https://www.dizzydizzykitchen.com/
 
 
 <!--## Features
